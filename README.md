@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="736" height="633" alt="image" src="https://github.com/user-attachments/assets/4a08412b-a6ed-4c95-a222-614e88439bf6" />
+
+## Who I am 
+I am a Bachelor of Arts candidate in Linguistics at the University of Florida with a minor in Computer Science, expected to graduate in May. My academic training emphasizes analytical thinking, pattern recognition, and data-driven reasoning through the study of language structure, syntax, and semantics, complemented by coursework in programming, algorithms, and computational methods. This interdisciplinary background has equipped me with strong problem-solving skills, experience working with structured and unstructured data, and the ability to translate complex findings into clear insights. I am eager to apply these skills to data science challenges and contribute to evidence-based decision-making in a professional environment. :octocat:
+
+
